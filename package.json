@@ -1,0 +1,19 @@
+{
+  "name": "formsg-infra",
+  "version": "1.0.0",
+  "description": "pulumi config for formsg",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opengovsg/formsg-infra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opengovsg/formsg-infra/issues"
+  },
+  "homepage": "https://github.com/opengovsg/formsg-infra#readme"
+}
